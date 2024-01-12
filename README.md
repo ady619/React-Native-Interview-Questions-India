@@ -73,7 +73,7 @@ React Native Interview Questions mainly asked by Indian Interviewers
 
     props pronounced as the properties of React Native Components. props are the immutable parameters passed in Presentational Component to provide data.
 
-<a name="9" />
+<a name="9"> </a>
 9. **What are my options for storing data when using React Native?**
 
 **Async Storage** (formerly "built-in" to React Native, now moved on its own)
