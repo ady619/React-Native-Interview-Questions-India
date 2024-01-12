@@ -17,7 +17,7 @@ React Native Interview Questions mainly asked by Indian Interviewers
 | 8   | [What are React Native Apps?](#what-are-react-native-apps)                                                   |
 
 <a name="1"></a>
-1. #What is React Native?
+1. ### What is React Native?
 
     React native is an open-source JavaScript framework designed by Facebook for native mobile applications development. It is based on a JavaScript library-React.
     
