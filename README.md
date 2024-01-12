@@ -7,7 +7,7 @@ React Native Interview Questions mainly asked by Indian Interviewers
 
 | No. | Questions                                                                                                    |
 | --- | ------------------------------------------------------------------------------------------------------------ |
-| 1   | [What is React Native?](#1.)                                                               |
+| 1   | [What is React Native?](#1)                                                              |
 | 2   | [Why use React Native?](#why-use-react-native)                                                               |
 | 3   | [What are the advantages of React Native?](#what-are-the-advantages-of-react-native)                         |
 | 4   | [List the essential components of React Native.](#list-the-essential-components-of-react-native)             |
@@ -16,9 +16,8 @@ React Native Interview Questions mainly asked by Indian Interviewers
 | 7   | [What are props in React Native?](#what-are-props-in-react-native)                                           |
 | 8   | [What are React Native Apps?](#what-are-react-native-apps)                                                   |
 
-
-### 1.
-   What is React Native?
+<a name="1"></a>
+1. #What is React Native?
 
     React native is an open-source JavaScript framework designed by Facebook for native mobile applications development. It is based on a JavaScript library-React.
     
